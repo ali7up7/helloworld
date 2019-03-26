@@ -1,3 +1,3 @@
 # helloworld
-la ilaha illAllah
-Muhammadan rasul Allah
+#la ilaha illAllah
+#Muhammadan rasul Allah
