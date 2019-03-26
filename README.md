@@ -5,5 +5,4 @@ aerh
 aerh
 aerhae
 haeth
-peorkhgaepkoh
-פצרהףדאנפצחרשןנףשןנ
+peorkhgae
